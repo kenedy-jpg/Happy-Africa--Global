@@ -1,0 +1,1 @@
+Happy Africa security hardening implemented. Run SECURITY.sql in Supabase.
